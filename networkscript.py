@@ -6,9 +6,9 @@ from email.mime.multipart import MIMEMultipart
 
 # ===== CONFIG SECTION =====
 # ⚠️ REPLACE THESE WITH YOUR GMAIL CREDENTIALS
-GMAIL_SENDER = "eshotoye@gmail.com"          # ← Your Gmail address
+GMAIL_SENDER = "@gmail.com"          # ← Your Gmail address
 GMAIL_APP_PASSWORD = "pyei qpzc lbce gnzm"  # ← Your 16-character App Password (WITH spaces)
-GMAIL_RECEIVER = "eshotoye@gmail.com"        # ← Who should get alerts (can be same as sender)
+GMAIL_RECEIVER = "@gmail.com"        # ← Who should get alerts (can be same as sender)
 
 # ===== MOCK DATA FOR TESTING (NO VCO NEEDED) =====
 edges = [
